@@ -1,0 +1,34 @@
+[1217/142837.184:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1217/145110.861:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[1217/145110.861:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[1217/145110.861:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[1217/145110.861:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[1217/145110.861:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[1217/145110.862:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[1217/145110.862:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[1217/145110.862:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[1217/145110.868:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[1217/145110.868:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[1217/145110.868:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[1217/145110.868:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[1217/145110.911:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[1217/145313.591:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1217/145317.893:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1217/145317.901:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1217/145323.672:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1217/145327.974:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1217/145327.977:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1217/145522.886:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1217/145532.965:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1217/145620.540:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1217/145622.935:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1217/145622.941:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1217/145630.632:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1217/145633.027:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1217/145633.027:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1217/145728.895:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1217/145738.979:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1217/145828.879:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1217/145838.950:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1217/150033.921:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1217/150043.994:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
